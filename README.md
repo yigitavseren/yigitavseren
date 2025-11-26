@@ -1,16 +1,24 @@
-## Hi there 👋
+### Selamlar 👋 Ben Yiğit Avseren
 
-<!--
-**yigitavseren/yigitavseren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Otonom Sistemler & Yapay Zeka Geliştiricisi**
 
-Here are some ideas to get you started:
+Şu anda **TEKNOFEST Savaşan İHA** takımı yazılım ekibinde; **ROS, Gazebo ve Derin Öğrenme** teknolojileriyle otonom uçuş ve hedef tespit sistemleri geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Projem:** Gazebo ortamında görüntü işleme tabanlı otonom SİHA simülasyonu.
+- 🌱 **Hedefim:** Savunma sanayiinde uçtan uca otonom sistemler (Swarm Intelligence, Guidance) üzerine uzmanlaşmak.
+- ⚡ **Yeteneklerim:**
+  - **Yazılım:** Python, C#
+  - **Otonomi:** ROS (Robot Operating System), ArduPilot, Mission Planner
+  - **Yapay Zeka:** YOLOv8, OpenCV, PyTorch
+  - **Simülasyon:** Gazebo, SITL
+
+---
+### 🛠️ Kullandığım Teknolojiler
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yigitavseren&show_icons=true&theme=dark)
