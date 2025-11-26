@@ -20,5 +20,4 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yigitavseren&show_icons=true&theme=dark)
+
