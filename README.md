@@ -1,4 +1,6 @@
-<h1 align="center">System.out.println("Hello, World!");</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00FF00&background=0D111700&center=true&vCenter=true&lines=Welcome+to+my+realm.;Ben+Yigit+Avseren" alt="Typing SVG">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yigitavseren&color=brightgreen&style=flat-square" alt="profile views"/>
@@ -8,9 +10,8 @@
 <h3 align="center">🛡️ Otonom Sistemler & Yapıay Zeka Geliştiricisi | 3. Sınıf Bilgisayar Mühendisliği Öğrencisi 🛡️</h3>
 
 <p align="center">
-  <a href="mailto:eposta_adresin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/profilAdin"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/yigitavseren"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:avseren.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yi%C4%9Fit-avseren-92a944322/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
