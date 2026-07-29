@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Active_Developer-blue?style=flat-square&logo=linux" alt="status"/>
 </p>
 
-<h3 align="center">🛡️ Otonom Sistemler & Yapıay Zeka Geliştiricisi | 3. Sınıf Bilgisayar Mühendisliği Öğrencisi 🛡️</h3>
+<h3 align="center">🛡️ Otonom Sistemler & Yapay Zeka Geliştiricisi | 3. Sınıf Bilgisayar Mühendisliği Öğrencisi 🛡️</h3>
 
 <p align="center">
   <a href="mailto:avseren.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
