@@ -30,7 +30,6 @@
 
 ---
 
-## 💻 Mühendislik & Teknoloji Stakı
 
 ### Core Development & Scripting
 <p>
